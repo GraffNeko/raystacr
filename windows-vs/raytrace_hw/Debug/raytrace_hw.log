@@ -1,0 +1,3 @@
+﻿  raytracer.cpp
+d:\computergraphics\project\project\windows-vs\raytrace_hw\raytracer.cpp(28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  raytrace_hw.vcxproj -> D:\computerGraphics\project\Project\windows-vs\Debug\raytrace_hw.exe
